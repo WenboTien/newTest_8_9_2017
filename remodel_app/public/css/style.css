@@ -23,7 +23,7 @@ p {
   min-height: 380px;
   line-height: 0;
   height: auto;
-  color: #039be5 ;
+  /*color: #039be5 ;*/
 }
   .parallax-container .section {
     width: 100%;
